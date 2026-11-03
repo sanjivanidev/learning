@@ -1,2 +1,3 @@
 # learning
-this is my first git repository
+This is my first git Repository.
+Author - sanjivani mokle
